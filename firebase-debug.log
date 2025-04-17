@@ -1,0 +1,21 @@
+[debug] [2025-04-15T02:08:16.002Z] ----------------------------------------------------------------------
+[debug] [2025-04-15T02:08:16.007Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\datem\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-04-15T02:08:16.008Z] CLI Version:   14.1.0
+[debug] [2025-04-15T02:08:16.008Z] Platform:      win32
+[debug] [2025-04-15T02:08:16.008Z] Node Version:  v22.14.0
+[debug] [2025-04-15T02:08:16.008Z] Time:          Mon Apr 14 2025 22:08:16 GMT-0400 (hora estándar de Chile)
+[debug] [2025-04-15T02:08:16.008Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-04-15T02:08:16.016Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-04-15T02:08:16.017Z] > authorizing via signed-in user (danielalearns@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\datem\OneDrive\Escritorio\ed
+
